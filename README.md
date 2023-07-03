@@ -6,7 +6,7 @@
 
 ### Basic
 - [x] Code Structure [바로가기](http://www.naver.comm)
-- [ ] Variable [바로가기] 
+- [ ] Variable [바로가기]
 - [ ] Strict Mode Structure [바로가기] 
 - [ ] Global This [바로가기] 
 - [ ] Data Types [바로가기] 
